@@ -1,0 +1,25 @@
+{% block title %}
+    Instructions
+{% endblock %}
+{% block content %}
+<p>
+    Welcome to the Credit Worthiness Assessment Experiment! In this experiment, you will take on the role of a participant facing decisions that mimic real-world creditworthiness assessment. Please carefully read and follow the instructions provided below.
+</p>
+
+<h2>Instructions:</h2>
+<ol>
+    <li><strong>Decision:</strong> You will be asked to decide on the amount of money you want to give in the experiment. The amount you choose to give will influence your final payoff.</li>
+    <li><strong>Response:</strong> You will answer a series of questions related to your personal and financial circumstances. Your responses will be used to calculate your credit score.</li>
+    <li><strong>Credit Score:</strong> Your credit score will be calculated based on your responses to the questions. The credit score reflects your perceived creditworthiness.</li>
+    <li><strong>Results:</strong> You will see your calculated credit score, the amount you chose to give, and your payoff based on these factors.</li>
+</ol>
+
+<p>
+    Keep in mind that your decisions and responses will affect your results. Please provide accurate information, and consider each decision carefully.
+</p>
+
+{{ formfields }}
+{{ next_button }}
+
+{% endblock %}
+
