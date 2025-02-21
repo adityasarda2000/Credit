@@ -68,6 +68,4 @@ Then, access the experiment in your browser at `http://localhost:8000`.
 - **Rythyma Sharma** (Matriculation No.: 3772956)
 - **Aditya Sarda** (Matriculation No.: 4730704)
 
-### 📄 License
-This project is licensed under the **MIT License**.
 
