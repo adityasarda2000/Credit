@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your **Credit Worthiness Assessment** project. You can upload this to GitHub as a guide for users.
-
----
-
 ## Credit Worthiness Assessment
 
 ### Overview
